@@ -1,0 +1,25 @@
+C:\Users\Dispair\documents\visual studio 2010\Projects\Picture Compare\Picture Compare\bin\Debug\Picture Compare.exe
+C:\Users\Dispair\documents\visual studio 2010\Projects\Picture Compare\Picture Compare\bin\Debug\Picture Compare.pdb
+C:\Users\Dispair\documents\visual studio 2010\Projects\Picture Compare\Picture Compare\bin\Debug\Picture Compare.xml
+C:\Users\Dispair\documents\visual studio 2010\Projects\Picture Compare\Picture Compare\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dispair\documents\visual studio 2010\Projects\Picture Compare\Picture Compare\obj\x86\Debug\Picture_Compare.Form1.resources
+C:\Users\Dispair\documents\visual studio 2010\Projects\Picture Compare\Picture Compare\obj\x86\Debug\Picture_Compare.Resources.resources
+C:\Users\Dispair\documents\visual studio 2010\Projects\Picture Compare\Picture Compare\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dispair\documents\visual studio 2010\Projects\Picture Compare\Picture Compare\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dispair\documents\visual studio 2010\Projects\Picture Compare\Picture Compare\obj\x86\Debug\Picture Compare.exe
+C:\Users\Dispair\documents\visual studio 2010\Projects\Picture Compare\Picture Compare\obj\x86\Debug\Picture Compare.xml
+C:\Users\Dispair\documents\visual studio 2010\Projects\Picture Compare\Picture Compare\obj\x86\Debug\Picture Compare.pdb
+E:\Visual Studio Projects\Picture Compare\Picture Compare\obj\x86\Debug\Picture Compare.exe
+E:\Visual Studio Projects\Picture Compare\Picture Compare\obj\x86\Debug\Picture Compare.xml
+E:\Visual Studio Projects\Picture Compare\Picture Compare\obj\x86\Debug\Picture Compare.pdb
+E:\Visual Studio Projects\Picture Compare\Picture Compare\bin\Debug\Picture Compare.exe
+E:\Visual Studio Projects\Picture Compare\Picture Compare\bin\Debug\Picture Compare.pdb
+E:\Visual Studio Projects\Picture Compare\Picture Compare\bin\Debug\Picture Compare.xml
+E:\Visual Studio Projects\Picture Compare\Picture Compare\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio Projects\Picture Compare\Picture Compare\obj\x86\Debug\Picture_Compare.Form1.resources
+E:\Visual Studio Projects\Picture Compare\Picture Compare\obj\x86\Debug\Picture_Compare.Resources.resources
+E:\Visual Studio Projects\Picture Compare\Picture Compare\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Visual Studio Projects\Picture Compare\Picture Compare\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dispa_000\Dropbox\Picture Compare\Picture Compare\obj\x86\Debug\Picture Compare.exe
+C:\Users\dispa_000\Dropbox\Picture Compare\Picture Compare\obj\x86\Debug\Picture Compare.xml
+C:\Users\dispa_000\Dropbox\Picture Compare\Picture Compare\obj\x86\Debug\Picture Compare.pdb
